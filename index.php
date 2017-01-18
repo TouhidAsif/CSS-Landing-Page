@@ -14,6 +14,8 @@ include'lib/database.php';
                      <th>email</th>
                      <th>phone</th>
                      <th>action</th>
+                     <th>About</th>
+                     
                  
                  </tr>
                  <?php
